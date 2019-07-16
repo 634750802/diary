@@ -1,0 +1,14 @@
+{
+  "name": "diary",
+  "private": true,
+  "repository": "https://github.com/634750802/diary.git",
+  "author": "Jagger",
+  "license": "MIT",
+  "scripts": {
+    "start": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.2"
+  }
+}
